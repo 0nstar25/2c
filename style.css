@@ -18,6 +18,26 @@
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 150px ;
+    margin: 0 110px ;
     font-size: 24px;
+}
+
+.aquário-imagem{
+    width: 25%;
+}
+
+.aquário{
+    background-image: linear-gradient(#292995,#296895);
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.aquario-div-conteudo{
+    width: 35%;
+}
+.aquário-titulo{
+    padding: 24px 0;
 }
